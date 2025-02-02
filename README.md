@@ -11,7 +11,7 @@ Gunakan `sum` function untuk menjumblahkan dua bilanga bulat.
 let result = sum(10, 100)
 ```
 
-atau Bisa juga untuk menggunakan extension function dari `Int`:
+atau Bisa juga menggunakan extension function dari `Int`:
 ```swift
 let input = 10
 let result = input.sum(100)
